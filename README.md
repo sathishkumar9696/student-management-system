@@ -22,3 +22,8 @@ A Java console-based application to manage student records using CRUD operations
 ## 📂 Project Structure
 - Main.java
 - Student.java
+- 
+## 📌 Future Enhancements
+- Add database (MySQL)
+- Implement login system
+- Convert to GUI (Java Swing)
